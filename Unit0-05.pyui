@@ -1,0 +1,156 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {597, 590}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{116, 287}, {125, 38}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "equation3_touch_up_inside",
+          "frame" : "{{259, 279}, {80, 32}}",
+          "title" : "3+4*2",
+          "uuid" : "2E6E8D43-45EE-4B7A-B134-BA7B2F9BF9B5",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{116, 210}, {125, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "equation2_touch_up_inside",
+          "frame" : "{{259, 279}, {80, 32}}",
+          "title" : "4\/2+5",
+          "uuid" : "2C9187C5-9401-468C-935A-53FBD0EFB713",
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{116, 127}, {125, 39}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "equation1_touch_up_inside",
+          "frame" : "{{259, 279}, {80, 32}}",
+          "title" : "5+2^3",
+          "uuid" : "416294F5-6262-4C8A-AE30-1EE9F035FB06",
+          "class" : "Button",
+          "name" : "",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{116, 362}, {125, 39}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "equation4_touch_up_inside",
+          "frame" : "{{259, 279}, {80, 32}}",
+          "title" : "7-3+2",
+          "uuid" : "111ED126-6D28-4A4B-B4BC-2944AE56EA2D",
+          "class" : "Button",
+          "name" : "button4",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{240, 127}, {102, 39}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{224, 279}, {150, 32}}",
+          "uuid" : "502D8B45-035A-4068-94F8-5958DA22376E",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "answer1_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{240, 210}, {102, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{224, 279}, {150, 32}}",
+          "uuid" : "980A5585-F9FD-4BB2-BF34-CF090DCAE89A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "answer2_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{240, 287}, {102, 38}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{224, 279}, {150, 32}}",
+          "uuid" : "90B0B3C8-252F-4BCB-9FA8-93AD81D1D854",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "answer3_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{240, 362}, {102, 39}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{224, 279}, {150, 32}}",
+          "uuid" : "5A75EFA7-3C83-4ADE-B43F-F7A5E1DC94DB",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "answer4_label",
+          "font_size" : 18
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
